@@ -31,8 +31,9 @@
             <a href={link.href} class="link">{link.title}</a>
         {/each}
         </div>
-    </div>
+</div>
 </nav>
+
 
 <div class="container">
     <!-- Pages will be injected below -->
